@@ -1,0 +1,1 @@
+console.log("There should be a speed dail functionality");
