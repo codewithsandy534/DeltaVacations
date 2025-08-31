@@ -1,0 +1,1 @@
+console.log ("Git has a very good copilot mode on the vs code");
