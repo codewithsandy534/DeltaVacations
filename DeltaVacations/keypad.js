@@ -1,1 +1,0 @@
-console.log("The keypad is working fine now");
