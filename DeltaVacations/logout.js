@@ -1,0 +1,1 @@
+console.log("Logout functionality is required now");

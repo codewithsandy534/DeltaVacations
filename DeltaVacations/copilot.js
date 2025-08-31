@@ -1,0 +1,1 @@
+console.log("Copilot mode is required in todays format");
